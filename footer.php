@@ -9,9 +9,9 @@
               <p>Saving the right way just got better and easier.</p>
             </div>
             <ul class="ftco-footer-social list-unstyled float-md-left float-lft ">
-              <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
-              <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
-              <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
+              <li class="ftco-animate"><a href="https://twitter.com/sumobank" target="_blanck"><span class="icon-twitter"></span></a></li>
+              <li class="ftco-animate"><a href="https://www.facebook.com/sumoobank/" target="_blanck"><span class="icon-facebook"></span></a></li>
+              <li class="ftco-animate"><a href="https://instagram.com/sumobankng" target="_blanck"><span class="icon-instagram"></span></a></li>
             </ul>
           </div>
           <div class="col-md-2">
@@ -28,26 +28,14 @@
           </div>
           <div class="col-md-4">
             <div class="ftco-footer-widget mb-4">
-              <h2 class="ftco-heading-2">Recent Blog</h2>
+              <h2 class="ftco-heading-2">Features</h2>
               <div class="block-21 mb-4 d-flex">
-                <a class="blog-img mr-4" style="background-image: url(images/image_1.jpg);"></a>
                 <div class="text">
-                  <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about</a></h3>
+                  <h3 class="heading"><a href="#">AutoSave</a></h3>
+                  <h3 class="heading"><a href="#">InstantSave</a></h3>
+                  <h3 class="heading"><a href="#">SumoPay</a></h3>
+                  <h3 class="heading"><a href="#">Academy</a></h3>
                   <div class="meta">
-                    <div><a href="#"><span class="icon-calendar"></span> Sept 15, 2018</a></div>
-                    <div><a href="#"><span class="icon-person"></span> Admin</a></div>
-                    <div><a href="#"><span class="icon-chat"></span> 19</a></div>
-                  </div>
-                </div>
-              </div>
-              <div class="block-21 mb-4 d-flex">
-                <a class="blog-img mr-4" style="background-image: url(images/image_2.jpg);"></a>
-                <div class="text">
-                  <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about</a></h3>
-                  <div class="meta">
-                    <div><a href="#"><span class="icon-calendar"></span> Sept 15, 2018</a></div>
-                    <div><a href="#"><span class="icon-person"></span> Admin</a></div>
-                    <div><a href="#"><span class="icon-chat"></span> 19</a></div>
                   </div>
                 </div>
               </div>
@@ -59,8 +47,8 @@
               <div class="block-23 mb-3">
                 <ul>
                   <li><span class="icon icon-map-marker"></span><span class="text">Suite G1, Ocean View Center, Gudu, Abuja.</span></li>
-                  <li><a href="#"><span class="icon icon-phone"></span><span class="text">+234 812 483 0774</span></a></li>
-                  <li><a href="#"><span class="icon icon-envelope"></span><span class="text">info@sumobank.ng</span></a></li>
+                  <li><a href="#"><span class="icon icon-phone"></span><span class="text">0814-800-8091</span></a></li>
+                  <li><a href="#"><span class="icon icon-envelope"></span><span class="text">contact@sumobank.ng</span></a></li>
                 </ul>
               </div>
             </div>
@@ -68,7 +56,7 @@
         </div>
         <div class="row">
           <div class="col-md-12 text-center">
-  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | <a href="https://sumobank.ng" target="_blank">Sumobank</a></p>
+              <span style="color: #e5e5e5;">Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved |</span> <a href="https://sumobank.ng" target="_blank">Sumobank</a></p>
           </div>
         </div>
       </div>
