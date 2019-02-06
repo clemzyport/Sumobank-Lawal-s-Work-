@@ -3,15 +3,15 @@
       <div class="container">
       	<div class="row justify-content-center mb-5 pb-5">
           <div class="col-md-12 text-center heading-section ftco-animate">
-            <h2 class="mb-3">The millenias bank raising global job creators.</h2>
-            <span class="subheading">Sumo Bank is an automated, personal savings/investment and business management platform that helps you save, receive and plan your finances effectively and make better business decisions with respect with fund raising and management. 
+            <h2 class="mb-3">The millenials bank raising global job creators.</h2>
+            <span class="subheading">Sumo Bank is an automated, personal savings/investment and business management platform that helps you save, receive and plan your finances effectively and make better business decisions with respect with fund raising and management.
                 <br><br>
-                Sumo Bank is a product of Sumo Tech Global Limited which is registered as a finance company with Cooperate affairs commission (CAC) with the RC NUMBER: 1524989. In partnership with <a href="https://www.entrepreneurn.com" target="_blank;" style="color: green; font-weight: bold;"> Entrepreneur Nigeria</a>, Nigeria largest business and enterprise blog which have been read million of times across the globe to access FREE business academy for entrepreneurs to start creating jobs with the little resources available. 
+                Sumo Bank is a product of Sumo Tech Global Limited which is registered as a finance company with Cooperate affairs commission (CAC) with the RC NUMBER: 1524989. In partnership with <a href="https://www.entrepreneurn.com" target="_blank;" style="color: green; font-weight: bold;"> Entrepreneur Nigeria</a>, Nigeria largest business and enterprise blog which have been read million of times across the globe to access FREE business academy for entrepreneurs to start creating jobs with the little resources available.
 With Sumo Bank, you can choose to save and raise money for something or invest your money to earn profit returns annually.
 </span>
           </div>
         </div>
-          
+
       	<div class="row justify-content-center mb-5 pb-5">
           <div class="col-md-12 text-center heading-section ftco-animate">
             <h2 class="mb-3">Mission</h2>
@@ -19,7 +19,7 @@ With Sumo Bank, you can choose to save and raise money for something or invest y
 </span>
           </div>
         </div>
-          
+
       	<div class="row justify-content-center mb-5 pb-5">
           <div class="col-md-12 text-center heading-section ftco-animate">
             <h2 class="mb-3">Vision</h2>
@@ -27,7 +27,7 @@ With Sumo Bank, you can choose to save and raise money for something or invest y
 </span>
           </div>
         </div>
-          
+
       	<div class="row justify-content-center mb-5 pb-5">
           <div class="col-md-12 text-center heading-section ftco-animate">
             <h2 class="mb-3">Our Innovative Team</h2>

@@ -4,19 +4,19 @@
     <title>SumoBank - Most Trusted Online Savings and Investment platform in Nigeria.</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-      
+
        <!-- Basic Page Needs
     ================================================== -->
     <meta name="description" content="Sumobank is a trusted and secured online savings and investment platform that takes away the stress of using local piggybank savings while staying disciplined and learning how to start a business for free in Africa.">
     <meta name="keywords" content="Sumobank,sumoloan,sumopay,sumofund,entrepreneur Nigeria,piggybank,cowrywise,piggybank savings,alat,online savings platforms,how to save money,save,money,save money,online savings account,how to invest,treasury bills,high interest savings account,how to send money to Nigeria,western union,investment platforms,savings account,best savings account,online banking,fintech,entrepreneur Nigeria business academy,how to save money,gtbank,first bank,zenith bank savings,diamond bank savings,gt bnk savings account,ways to save money,best way to save money,high yield savings,how to save money fast,save online,fixed deposit account,startup funding,get a loan,how to get a loan,collateral free loan,loan,entrepreneur,how to save your money,help me save money,piggybank reviews,sumobank reviews,is piggybank legit,good savings account,top online savings account,methods of saving,dog piggy bank,how sumobank works,how piggybank works,piggybank app,cowrywise app,">
     <meta name="author" content="sumobank.com, sumobank.ng, entrepreneurn.com, satowallet.com, blockchaintechhub.org, clemzcorp.com, clemzcorp.com.ng">
-    
-    
+
+
 	<link href="https://fonts.googleapis.com/css?family=Muli:200,400,600,900" rel="stylesheet">
 
     <link rel="stylesheet" href="css/open-iconic-bootstrap.min.css">
     <link rel="stylesheet" href="css/animate.css">
-    
+
     <link rel="stylesheet" href="css/owl.carousel.min.css">
     <link rel="stylesheet" href="css/owl.theme.default.min.css">
     <link rel="stylesheet" href="css/magnific-popup.css">
@@ -28,7 +28,7 @@
     <link rel="stylesheet" href="css/bootstrap-datepicker.css">
     <link rel="stylesheet" href="css/jquery.timepicker.css">
 
-    
+
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
     <link rel="stylesheet" href="css/icomoon.css">
     <link rel="stylesheet" href="css/style.css">
@@ -65,18 +65,18 @@
     </style>
   </head>
   <body>
-    
+
 	  <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light top-nav" id="ftco-navbar">
 	    <div class="container">
       <a href="index.php" class="inverted1"><img src="images/sumobank_logo1.png" alt="sumobank_home"></a>
       <a href="index.php" class="inverted2"><img src="images/sumobank_logo_inv1.png" alt="sumobank_home"></a>
 	      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
-	        <span class="oi oi-menu"></span> Menu
+	        <span class="oi oi-menu"></span>
 	      </button>
 
 	      <div class="collapse navbar-collapse" id="ftco-nav">
 	        <ul class="navbar-nav ml-auto">
-	          <li class="nav-item active"><a href="team.php" class="nav-link">About</a></li>
+	          <li class="nav-item active"><a href="about.php" class="nav-link">About</a></li>
                 <li class="nav-item"><a href="index.php#why_sumobank" class="nav-link">Why <strong>Sumo</strong>bank</a></li>
 	          <li class="nav-item"><a href="#" class="nav-link">Services</a></li>
 	          <li class="nav-item"><a href="#" class="nav-link" >Blog</a></li>
@@ -89,7 +89,7 @@
 	    </div>
 	  </nav>
     <!-- END nav -->
-    
+
     <div class="hero-wrap">
       <div class="overlay" id="particles-js"></div>
       <div class="container-fluid">
@@ -116,17 +116,12 @@
 		          <div class="item">
 			          <img src="images/6.png" class="img-fluid img"alt="sumo_bg">
 		          </div>
-<!--
-		          <div class="item">
-			          <img src="images/dashboard_full_3.png" class="img-fluid img"alt="">
-		          </div>
--->
 	          </div>
-          </div>
+        </div>
         </div>
       </div>
     </div>
-   
+
     <section class="ftco-section ftco-services" id="why_sumobank">
       <div class="container">
       	<div class="row justify-content-center mb-5 pb-5">
@@ -143,7 +138,7 @@
                 <h2 class="heading">High Interest Returns</h2>
                 <p>Sumobank pays you higher interest as regards to what any other bank would pay you on any amount saved.</p>
               </div>
-            </div>      
+            </div>
           </div>
           <div class="col-md-6 d-flex align-self-stretch ftco-animate">
             <div class="media block-6 services d-block text-center">
@@ -152,7 +147,7 @@
                 <h2 class="heading">No Hidden Fees</h2>
                 <p>Your account doesn't come with any charge, no SMS fees, no withdrawal fees on the 4 withdrawal dates per year.</p>
               </div>
-            </div>    
+            </div>
           </div>
           <div class="col-md-6 d-flex align-self-stretch ftco-animate">
             <div class="media block-6 services d-block text-center">
@@ -161,7 +156,7 @@
                 <h2 class="heading">Trusted &amp; Secured</h2>
                 <p>Sumobank is highly secured and trusted by thousands of people like you taking advantage of the great services and support we provide. Your card is very safe with us.</p>
               </div>
-            </div>      
+            </div>
           </div>
           <div class="col-md-6 d-flex align-self-stretch ftco-animate">
             <div class="media block-6 services d-block text-center">
@@ -170,13 +165,13 @@
                 <h2 class="heading">Learn &amp; Connect</h2>
                 <p>Sumobank in partnership with Entrepreneur Nigeria will let you have free access to Nigeria's largest online business academy as well as connect and collaberate with like minds.</p>
               </div>
-            </div>      
+            </div>
           </div>
         </div>
       </div>
-  </section>   
-  
-  <section class="content grayback"> 
+  </section>
+
+  <section class="content grayback">
   <div class="container _center securealertbox">
     <div class="imagepart col-md-6"><img src="https://storage.googleapis.com/piggybankservice.appspot.com/statics/security-login-400-min.png" alt=""></div>
     <div class="textpart">
@@ -185,11 +180,11 @@
     </div>
   </div>
 </section>
-    
+
 <!--    style="background: transparent url(images/1.jpg) no-repeat;"   -->
 
     <section class="ftco-services">
-      <div class="container-wrap mt-5">    
+      <div class="container-wrap mt-5">
         <div class="row justify-content-center mb-5 pb-5">
           <div class="col-md-7 text-center heading-section ftco-animate">
             <h2 class="mb-2"><strong style="color: #404E9D !important; margin-top: 30px;">Account Types On Sumobank</strong></h2>
@@ -204,7 +199,7 @@
               <div class="heading-section mb-5 ftco-animate">
             <div class="badge">1</div>
                 <h2 class="mb-2">Main Savings</h2>
-              </div>                    
+              </div>
                     <div class="p_types">
                       <p>
                           Automatically choose to save either on daily, weekly or monthly intervals and earn 10% interest per annum. Withdrawals here are restricted to only withdrawal dates or the exact date you chose to withdraw.
@@ -213,14 +208,14 @@
             </div>
           </div>
         </div>
-          
+
         <div class="row d-flex no-gutters">
           <div class="col-md-6 d-flex">
             <div class="services-wrap">
               <div class="heading-section mb-5 ftco-animate">
             <div class="badge">2</div>
                 <h2 class="mb-2">Fixed Savings</h2>
-              </div>                    
+              </div>
                     <div class="p_types">
                       <p>
                           Securely lock away your money for a long period of time ( up to 365 days ) and earn up to 15% interest annually. You can fix save any amount. This account can also be called <strong>investment account</strong>.
@@ -231,7 +226,7 @@
           <div class="col-md-6 img ftco-animate sb-bounce sb-bounce-bg2">
           </div>
         </div>
-     
+
         <div class="row d-flex no-gutters">
           <div class="col-md-6 img ftco-animate sb-bounce sb-bounce-bg3">
           </div>
@@ -240,7 +235,7 @@
               <div class="heading-section mb-5 ftco-animate">
             <div class="badge">3</div>
                 <h2 class="mb-2">Missions Savings</h2>
-              </div>                    
+              </div>
                     <div class="p_types">
                       <p>
                           Want to raise money for a particular project or reason? Set your savings target and amount and start saving until amount is raised.
@@ -249,14 +244,14 @@
             </div>
           </div>
         </div>
-          
+
         <div class="row d-flex no-gutters">
           <div class="col-md-6 d-flex">
             <div class="services-wrap">
               <div class="heading-section mb-5 ftco-animate">
             <div class="badge">4</div>
                 <h2 class="mb-2">Kick Account</h2>
-              </div>                    
+              </div>
                     <div class="p_types">
                       <p>
                           All interest earned on all above account types, referral commissions, bonuses and winnings are paid to your <strong>kick account</strong>. There is however, no interest in this account.
@@ -337,21 +332,22 @@
               <h2 class="ftco-heading-2">Sumobank</h2>
               <p>Saving the right way just got better and easier.</p>
             </div>
-            <ul class="ftco-footer-social list-unstyled float-md-left float-lft ">
-              <li class="ftco-animate"><a href="https://twitter.com/sumobank" target="_blanck"><span class="icon-twitter"></span></a></li>
-              <li class="ftco-animate"><a href="https://www.facebook.com/sumoobank/" target="_blanck"><span class="icon-facebook"></span></a></li>
-              <li class="ftco-animate"><a href="https://instagram.com/sumobankng" target="_blanck"><span class="icon-instagram"></span></a></li>
-            </ul>
+              <div class="text">
+                <h3 class="heading-2"><a href="#legal.php">Legal</a></h3>
+                <h3 class="heading-2 second"><a href="#terms.php">Terms & Conditions</a></h3>
+                <div class="meta">
+                   &nbsp
+                </div>
+              </div>
           </div>
           <div class="col-md-2">
             <div class="ftco-footer-widget mb-4">
-              <h2 class="ftco-heading-2">Quick Links</h2>
+              <h2 class="ftco-heading-2">Company</h2>
               <ul class="list-unstyled">
-                <li><a href="#" class="py-2 d-block">About</a></li>
-                <li><a href="#" class="py-2 d-block">Why <strong>Sumo</strong>bank</a></li>
-                <li><a href="#" class="py-2 d-block">Faqs</a></li>
-                <li><a href="#" class="py-2 d-block">Blog</a></li>
-                <li><a href="#" class="py-2 d-block">Contact</a></li>
+                <li><a href="#" class="py-2 d-block">1. About</a></li>
+                <li><a href="#" class="py-2 d-block">2. Why <strong>Sumo</strong>bank</a></li>
+                <li><a href="#" class="py-2 d-block">3. FAQs</a></li>
+                <li><a href="https://www.entrepreneurn.com/sumobank/" target="_blank" class="py-2 d-block">4. Blog</a></li>
               </ul>
             </div>
           </div>
@@ -364,6 +360,7 @@
                   <h3 class="heading"><a href="#">InstantSave</a></h3>
                   <h3 class="heading"><a href="#">SumoPay</a></h3>
                   <h3 class="heading"><a href="#">Academy</a></h3>
+                  <h3 class="heading"><a href="#">Affiliate</a></h3>
                   <div class="meta">
                   </div>
                 </div>
@@ -379,20 +376,25 @@
                   <li><a href="#"><span class="icon icon-phone"></span><span class="text">0814-800-8091</span></a></li>
                   <li><a href="#"><span class="icon icon-envelope"></span><span class="text">contact@sumobank.ng</span></a></li>
                 </ul>
+                <ul class="ftco-footer-social list-unstyled float-md-left float-lft ">
+                  <li class="ftco-animate"><a href="https://twitter.com/sumobank" target="_blanck"><span class="icon-twitter"></span></a></li>
+                  <li class="ftco-animate"><a href="https://www.facebook.com/sumobankng/" target="_blanck"><span class="icon-facebook"></span></a></li>
+                  <li class="ftco-animate"><a href="https://instagram.com/sumobankng" target="_blanck"><span class="icon-instagram"></span></a></li>
+                </ul>
               </div>
             </div>
           </div>
         </div>
         <div class="row">
           <div class="col-md-12 text-center">
-              <span style="color: #e5e5e5;">Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved |</span> <a href="https://sumobank.ng" target="_blank">Sumobank</a></p>
+              <span style="color: #e5e5e5;">Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved |</span> <a href="https://sumobank.ng" target="_blank">Sumo Tech Global Limited - RC 1524989</a></p>
           </div>
         </div>
       </div>
     </footer>
-    
+
     <button id="myBtn" class="ScrollTopBtn hide"><a href="#" title="Scroll to Top" class="ScrollTop"><i class="ion ion-md-arrow-up"></i></a></button>
-  
+
 
   <!-- loader -->
   <div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00"/></svg></div>
@@ -422,7 +424,7 @@
                 <div class="form-group">
                   <!-- <label for="appointment_date" class="text-black">Date</label> -->
                   <input type="text" class="form-control" id="appointment_date" placeholder="Date">
-                </div>    
+                </div>
               </div>
               <div class="col-md-6">
                 <div class="form-group">
@@ -431,7 +433,7 @@
                 </div>
               </div>
             </div>
-            
+
 
             <div class="form-group">
               <!-- <label for="appointment_message" class="text-black">Message</label> -->
@@ -442,7 +444,7 @@
             </div>
           </form>
         </div>
-        
+
       </div>
     </div>
   </div>

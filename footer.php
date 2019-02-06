@@ -56,14 +56,14 @@
         </div>
         <div class="row">
           <div class="col-md-12 text-center">
-              <span style="color: #e5e5e5;">Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved |</span> <a href="https://sumobank.ng" target="_blank">Sumobank</a></p>
+              <span style="color: #e5e5e5;">Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved |</span> <a href="https://sumobank.ng" target="_blank"> Sumo Tech Global Limited - RC 1524989</a></p>
           </div>
         </div>
       </div>
     </footer>
-    
+
     <button id="myBtn" class="ScrollTopBtn hide"><a href="#" title="Scroll to Top" class="ScrollTop"><i class="ion ion-md-arrow-up"></i></a></button>
-  
+
 
   <!-- loader -->
   <div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00"/></svg></div>
@@ -93,7 +93,7 @@
                 <div class="form-group">
                   <!-- <label for="appointment_date" class="text-black">Date</label> -->
                   <input type="text" class="form-control" id="appointment_date" placeholder="Date">
-                </div>    
+                </div>
               </div>
               <div class="col-md-6">
                 <div class="form-group">
@@ -102,7 +102,7 @@
                 </div>
               </div>
             </div>
-            
+
 
             <div class="form-group">
               <!-- <label for="appointment_message" class="text-black">Message</label> -->
@@ -113,7 +113,7 @@
             </div>
           </form>
         </div>
-        
+
       </div>
     </div>
   </div>
