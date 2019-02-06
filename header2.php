@@ -59,7 +59,7 @@
 	          <li class="nav-item"><a href="services.php" class="nav-link">Services</a></li>
 	          <li class="nav-item"><a href="work.php" class="nav-link" >Blog</a></li>
             <li class="nav-item"><a href="team.php" class="nav-link">Testimonials</a></li>
-            <li class="nav-item"><a href="faq.php" class="nav-link">FAQs</a></li>
+            <li class="nav-item"><a href="https://www.entrepreneurn.com/sumobank/faq" target="-_blank" class="nav-link">FAQs</a></li>
 	          <li class="nav-item"><a href="pricing.php" class="nav-link">Sign in</a></li>
 	          <li class="nav-item cta"><a href="contact.php" class="nav-link" data-toggle="modal" data-target="#modalRequest"><span>Sign Up</span></a></li>
 	        </ul>
