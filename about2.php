@@ -3,7 +3,7 @@
       <div class="container">
       	<div class="row justify-content-center mb-5 pb-5">
           <div class="col-md-12 text-center heading-section ftco-animate">
-            <h2 class="mb-3">The millenials bank raising global job creators.</h2>
+            <h2 class="mb-3">The millenial bank raising global job creators.</h2>
             <span class="subheading">Sumo Bank is an automated, personal savings/investment and business management platform that helps you save, receive and plan your finances effectively and make better business decisions with respect with fund raising and management.
                 <br><br>
                 Sumo Bank is a product of Sumo Tech Global Limited which is registered as a finance company with Cooperate affairs commission (CAC) with the RC NUMBER: 1524989. In partnership with <a href="https://www.entrepreneurn.com" target="_blank;" style="color: green; font-weight: bold;"> Entrepreneur Nigeria</a>, Nigeria largest business and enterprise blog which have been read million of times across the globe to access FREE business academy for entrepreneurs to start creating jobs with the little resources available.
@@ -65,7 +65,9 @@ With Sumo Bank, you can choose to save and raise money for something or invest y
       					<h3><a href="teacher-single.html">Okoro Julius</a></h3>
       					<span class="position">CMO</span>
       					<div class="text">
-	        				<p>Okoro Julius is an energy digital banking and information management expert. He has worked both as customer care relationship manager and sales Executive at UBA PLC Nigeria. Julius, has over 6 years experience in banking, oil and gas industry with an MSC in Geophysics.</p>
+	        				<p>Okoro Julius is an energy, digital banking and information management expert.<br>
+                    He has worked both as customer care relationship manager and Sales Executive in the banking industry of Nigeria.
+                    Julius has over 6 years experience in banking, oil and gas industry with OND in computer science, BSC and  MSC in Geophysics in addition to other certifications.</p>
 	        			</div>
       				</div>
         		</div>

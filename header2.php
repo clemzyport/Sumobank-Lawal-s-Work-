@@ -56,12 +56,11 @@
 	        <ul class="navbar-nav ml-auto">
 	          <li class="nav-item active"><a href="about.php" class="nav-link">About</a></li>
                 <li class="nav-item"><a href="index.php#why_sumobank" class="nav-link">Why <strong>Sumo</strong>bank</a></li>
-	          <li class="nav-item"><a href="services.php" class="nav-link">Services</a></li>
 	          <li class="nav-item"><a href="work.php" class="nav-link" >Blog</a></li>
             <li class="nav-item"><a href="team.php" class="nav-link">Testimonials</a></li>
-            <li class="nav-item"><a href="https://www.entrepreneurn.com/sumobank/faq" target="-_blank" class="nav-link">FAQs</a></li>
-	          <li class="nav-item"><a href="pricing.php" class="nav-link">Sign in</a></li>
-	          <li class="nav-item cta"><a href="contact.php" class="nav-link" data-toggle="modal" data-target="#modalRequest"><span>Sign Up</span></a></li>
+            <li class="nav-item"><a href="faq.php" target="-_blank" class="nav-link">FAQs</a></li>
+	          <li class="nav-item"><a href="#" class="nav-link">Sign in</a></li>
+	          <li class="nav-item cta"><a href="#" class="nav-link" data-toggle="modal" data-target="#modalRequest"><span>Create Free Acccount</span></a></li>
 	        </ul>
 	      </div>
 	    </div>

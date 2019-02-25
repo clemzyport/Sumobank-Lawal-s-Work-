@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>SumoBank - Most Trusted Online Savings and Investment platform in Nigeria.</title>
+    <title>Sumobank - Most Trusted Online Savings and Investment platform in Nigeria.</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -78,12 +78,11 @@
 	        <ul class="navbar-nav ml-auto">
 	          <li class="nav-item active"><a href="about.php" class="nav-link">About</a></li>
                 <li class="nav-item"><a href="index.php#why_sumobank" class="nav-link">Why <strong>Sumo</strong>bank</a></li>
-	          <li class="nav-item"><a href="#" class="nav-link">Services</a></li>
 	          <li class="nav-item"><a href="#" class="nav-link" >Blog</a></li>
             <li class="nav-item"><a href="#" class="nav-link">Testimonials</a></li>
-            <li class="nav-item"><a href="#" class="nav-link">FAQs</a></li>
+            <li class="nav-item"><a href="faq.php" class="nav-link">FAQs</a></li>
 	          <li class="nav-item"><a href="#" class="nav-link">Sign in</a></li>
-	          <li class="nav-item cta"><a href="#" class="nav-link"><span>Sign Up</span></a></li>
+	          <li class="nav-item cta"><a href="#" class="nav-link"><span>Create Free Account</span></a></li>
 	        </ul>
 	      </div>
 	    </div>
@@ -329,12 +328,11 @@
         <div class="row mb-5">
           <div class="col-md-3">
             <div class="ftco-footer-widget mb-4">
-              <h2 class="ftco-heading-2">Sumobank</h2>
-              <p>Saving the right way just got better and easier.</p>
+              <h2 class="ftco-heading-2">Legal</h2>
             </div>
               <div class="text">
-                <h3 class="heading-2"><a href="#legal.php">Legal</a></h3>
-                <h3 class="heading-2 second"><a href="#terms.php">Terms & Conditions</a></h3>
+                <h3 class="heading-2"><a href="privacy_policy.php">Privacy Policy</a></h3>
+                <h3 class="heading-2 second"><a href="terms.php">Terms & Conditions</a></h3>
                 <div class="meta">
                    &nbsp
                 </div>
@@ -372,18 +370,23 @@
               <h2 class="ftco-heading-2">Contact Info</h2>
               <div class="block-23 mb-3">
                 <ul>
-                  <li><span class="icon icon-map-marker"></span><span class="text">Suite G1, Ocean View Center, Gudu, Abuja.</span></li>
+                  <li><span class="icon icon-map-marker"></span><span class="text">Suite 3F4 Katukoma Plaza, Off Oladipo Diya Way, Gudu, Abuja.</span></li>
                   <li><a href="#"><span class="icon icon-phone"></span><span class="text">0814-800-8091</span></a></li>
                   <li><a href="#"><span class="icon icon-envelope"></span><span class="text">contact@sumobank.ng</span></a></li>
                 </ul>
                 <ul class="ftco-footer-social list-unstyled float-md-left float-lft ">
                   <li class="ftco-animate"><a href="https://twitter.com/sumobank" target="_blanck"><span class="icon-twitter"></span></a></li>
-                  <li class="ftco-animate"><a href="https://www.facebook.com/sumobankng/" target="_blanck"><span class="icon-facebook"></span></a></li>
+                  <li class="ftco-animate"><a href="https://www.facebook.com/ngsumobank/" target="_blanck"><span class="icon-facebook"></span></a></li>
                   <li class="ftco-animate"><a href="https://instagram.com/sumobankng" target="_blanck"><span class="icon-instagram"></span></a></li>
                 </ul>
               </div>
             </div>
           </div>
+        </div>
+        <hr>
+        <div class="disclosure">
+          Sumobank is a savings and investment platform of Sumo Tech Global Limited fully registered with Corporate Affairs Commission, Nigeria, making it a legal entity. www.sumobank.ng is a platform helping Africans to save and invest seamlessly without stress of walking into the banking halls to create a savings account. The high interest of 10-15% we pay to all out users are generated from the LOW-RISK and Secured Investments with CBN.
+          Apart from all these, our primary goal is to help you raise and manage funds/money to suite what you want to do while we train and expose you on how to start a successful business of any type from scratch.
         </div>
         <div class="row">
           <div class="col-md-12 text-center">
@@ -394,60 +397,6 @@
     </footer>
 
     <button id="myBtn" class="ScrollTopBtn hide"><a href="#" title="Scroll to Top" class="ScrollTop"><i class="ion ion-md-arrow-up"></i></a></button>
-
-
-  <!-- loader -->
-  <div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00"/></svg></div>
-
-  <!-- Modal -->
-  <div class="modal fade" id="modalRequest" tabindex="-1" role="dialog" aria-labelledby="modalRequestLabel" aria-hidden="true">
-    <div class="modal-dialog" role="document">
-      <div class="modal-content">
-        <div class="modal-header">
-          <h5 class="modal-title" id="modalRequestLabel">Request a Quote</h5>
-          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-            <span aria-hidden="true">&times;</span>
-          </button>
-        </div>
-        <div class="modal-body">
-          <form action="#">
-            <div class="form-group">
-              <!-- <label for="appointment_name" class="text-black">Full Name</label> -->
-              <input type="text" class="form-control" id="appointment_name" placeholder="Full Name">
-            </div>
-            <div class="form-group">
-              <!-- <label for="appointment_email" class="text-black">Email</label> -->
-              <input type="text" class="form-control" id="appointment_email" placeholder="Email">
-            </div>
-            <div class="row">
-              <div class="col-md-6">
-                <div class="form-group">
-                  <!-- <label for="appointment_date" class="text-black">Date</label> -->
-                  <input type="text" class="form-control" id="appointment_date" placeholder="Date">
-                </div>
-              </div>
-              <div class="col-md-6">
-                <div class="form-group">
-                  <!-- <label for="appointment_time" class="text-black">Time</label> -->
-                  <input type="text" class="form-control" id="appointment_time" placeholder="Time">
-                </div>
-              </div>
-            </div>
-
-
-            <div class="form-group">
-              <!-- <label for="appointment_message" class="text-black">Message</label> -->
-              <textarea name="" id="appointment_message" class="form-control" cols="30" rows="10" placeholder="Message"></textarea>
-            </div>
-            <div class="form-group">
-              <input type="submit" value="Get a Quote" class="btn btn-primary">
-            </div>
-          </form>
-        </div>
-
-      </div>
-    </div>
-  </div>
 
 
   <script src="js/jquery.min.js"></script>

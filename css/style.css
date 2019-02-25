@@ -58,6 +58,61 @@ body {
   text-align: left;
   background-color: #fff; }
 
+  .titles {
+    font-weight: bold !important;
+  }
+
+  /* FAQ ACCORDION SECTION */
+
+  .faq-left .card {
+    border: none;
+    background: transparent;
+    border-radius: 0 !important;
+    margin-bottom: 10px;
+  }
+
+  .faq-subquestions {
+    font-style: italic;
+    font-weight: bold;
+  }
+
+  .faq-left .card-header {
+    cursor: pointer;
+  }
+
+  .faq-left h5 button {
+    background-color: transparent !important;
+    text-decoration: none !important;
+    margin: -5px 0 5px 30px;
+  }
+
+  .faq-left .card-header .btn-link:hover {
+    color: #fff !important;
+    border-color: transparent !important;
+  }
+
+  .faq-left .card-header {
+    padding: 5px;
+    border-radius: 0px 10px 10px 0px !important;
+    border-bottom: none;
+    background-image: -webkit-linear-gradient(0deg, #00093A 0%, rgb(64,78,157) 100%);
+  }
+
+  .faq-left .card-header .btn-link {
+    border-radius: 0 !important;
+    color: #fff;
+    text-decoration: none !important;
+  }
+
+  .faq-accordion {
+    padding-top: 100px;
+  }
+
+
+  .info-lists {
+    text-align: left !important;
+  }
+
 [tabindex="-1"]:focus {
   outline: 0 !important; }
 
@@ -65,7 +120,9 @@ hr {
   -webkit-box-sizing: content-box;
   box-sizing: content-box;
   height: 0;
-  overflow: visible; }
+  overflow: visible;
+  color: #fff;
+  }
 
 h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
@@ -1720,6 +1777,19 @@ select.form-control-lg:not([size]):not([multiple]), .input-group-lg > select.for
 
 .form-check-label {
   margin-bottom: 0; }
+
+  .disclosure {
+    color: #fff;
+    padding-bottom: 40px;
+    font-size: 12px;
+    font-style: italic;;
+  }
+
+  hr {
+    border-color: #fff !important;
+    margin-bottom: -20px !important;
+    margin-top: -40px !important;
+  }
 
 .form-check-inline {
   display: -webkit-inline-box;
@@ -4213,6 +4283,27 @@ input[type="button"].btn-block {
   background-color: #e9ecef;
   border-radius: 0.25rem; }
 
+    #heading17 h5 {
+    padding: 0 0 20px 0 !important;
+  }
+
+  .security {
+    text-align: left !important;
+    margin-left: 50px;
+    color: #404E9D;
+  }
+
+  .security-1 {
+    text-align: left !important;
+    color: #404E9D;
+  }
+
+  .what-else {
+  margin: 0 50px 0 50px !important;
+  text-align: left !important;
+
+}
+
 .progress-bar {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -5262,6 +5353,52 @@ button.bg-dark:focus {
     display: -webkit-inline-box !important;
     display: -ms-inline-flexbox !important;
     display: inline-flex !important; } }
+
+@media only screen and (max-width: 600px) {
+
+        .faq-left h5 button {
+        margin: -5px 0 -5px 0 !important;
+        font-size: 14px !important; }
+
+        .card-body {
+      margin: 10px 0 10px 0 !important;
+      font-size: 14px;}
+
+      .security {
+        text-align: center !important;
+        margin-left: 0 !important;
+      }
+
+      #heading17 h5 {
+      padding: 0 0 15px 0 !important;
+      }
+
+      .security-1 {
+        text-align: center !important;
+        margin-left: 0 !important;
+      }
+
+      .what-else {
+      margin: 0 20px 0 20px !important;
+      text-align: center !important;
+
+    }
+    }
+
+@media only screen and (max-width: 400px) {
+
+      .faq-left h5 button {
+      margin: -5px 0 -5px 0 !important;
+      font-size: 10px !important; }
+
+      .card-body {
+    margin: 10px 0 10px 0 !important;
+    font-size: 10px !important;}
+
+    #heading17 h5 {
+    padding: 5px 0 5px 0 !important;
+    }
+  }
 
 @media only screen and (max-width: 992px) {
 
@@ -49781,7 +49918,9 @@ input[type="button"].btn-block {
   -webkit-box-flex: 1;
   -ms-flex: 1 1 auto;
   flex: 1 1 auto;
-  padding: 1.25rem; }
+  padding: 1.25rem;
+  margin: 10px 0 10px 30px;
+}
 
 .card-title {
   margin-bottom: 0.75rem; }
